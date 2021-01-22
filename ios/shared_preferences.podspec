@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'shared_preferences'
+  s.name             = 'deep_shared_preferences'
   s.version          = '0.0.1'
   s.summary          = 'Flutter Shared Preferences'
   s.description      = <<-DESC
